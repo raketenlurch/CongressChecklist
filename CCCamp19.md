@@ -52,6 +52,9 @@
     - Kabelrolle
     - Lan-Kabel
     - Steckdosenadapter für USB-Kabel
+    - Ubuntu-Boot-Stick
+    - Externe Speichermedien
+    
 
 ## Sonstiges
     - Longboard
