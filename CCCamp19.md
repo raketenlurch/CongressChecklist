@@ -21,6 +21,7 @@
     - 2 lange Hosen
     - 3 kurze Hosen
     - Nachthemd
+    - feste Schuhe
 
 ## Hygienefoo
     - Zahnbürste und Zahnpasta
@@ -38,6 +39,8 @@
     - 2 Laptops (Thinkpad und Acer)
     - Netzteil (+ Thinkpad und Acer-Nupsi)
     - 2 Raspberry Pi
+    - LED-Foo für die Raspis
+    - Jumper-Kabel und Breadboards
     - 2 Powerbank
     - Nintendo Switch
     - i-Pad
