@@ -6,10 +6,10 @@
     - WICHTIG: Vor der Abreise ausreichend Bargeld abheben
 
 ## Dokumente
-    - Veranstaltungsticket:
+    - Veranstaltungsticket: 
     - Zugtickets
     - Perso
-    - Link zum Fnordeingang-Planungspad: 
+    - Link zum Fnordeingang-Planungspad: https://pad.gloegg.net/p/cccamp19
 
 ## Klamotten
     - 1 T-Shirt pro Tag
