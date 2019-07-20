@@ -1,11 +1,15 @@
 ## Allgemein
-    - Kram, der im Auto mit soll muss bis zum 13.08 im Fnord sein und im Pad eingetragen sein
-    - Link zum Pad: 
+    - Kram, der im Auto mit soll muss bis zum 13.08 im Fnord sein und im Pad eingetragen sein 
     - Dauer: 15.08 - 28.08
-    - Link zum Veranstaltungsicket:
-    - Zugtickets: Sommerticket
     - Route Zehdenick - Mildenberg (Strecke Bahnhof - Camp mit dem Longboard)
     - WICHTIG: Technik und verleihbaren Kram mit Nick und einer Email-Adresse labeln
+    - WICHTIG: Vor der Abreise ausreichend Bargeld abheben
+
+## Dokumente
+    - Veranstaltungsticket:
+    - Zugtickets
+    - Perso
+    - Link zum Fnordeingang-Planungspad: 
 
 ## Klamotten
     - 1 T-Shirt pro Tag
@@ -20,8 +24,6 @@
 
 ## Hygienefoo
     - Zahnbürste und Zahnpasta
-    - Sonnencreme
-    - Anti-Brumm
     - Binden
     - Haarshampoo
     - Duschgel
@@ -30,6 +32,7 @@
     - 2 große Baddetücher
     - 2 kleine Handtücher
     - Bürste
+    - Flip-Flops
 
 ## Technikfoo
     - 2 Laptops (Thinkpad und Acer)
@@ -49,7 +52,9 @@
 
 ## Sonstiges
     - Longboard
-    - Sonnenbrille 
+    - Helm und Schoner zum Longnoard fahren
+    - Sonnenbrille
+    - normale Brille 
     - Müllbeutel
     - Stickerkiste
     - Laynyard/Badge 
@@ -57,6 +62,30 @@
     - Wiederverwendbare Flasche für Wasser
     - Kleines Kissen
     - Großes Kissen
+    - dünne Decke (Fließdecke oder leerer Deckenbezug)
     - 2 Plastikschüsseln
     - Camping-Besteck
-    - 1 Rolle Gaffa 
+    - Brettchen zum Dinge Schneiden
+    - 1 Rolle Gaffa
+    - Leatherman
+    - Schere
+    - Taschenlampe
+    - Bluetooth-Box
+    - On-Ear Kopfhörer
+    - In-Ear Kopfhörer
+    - Musik-Playlisten zusammenbasteln
+    - Stickzeug für Fahnenprojekt
+    - Nähzeug zum Dinge Reparieren
+
+## Erste Hilfe-, Vorsorge-, und Nachsorgezeugs
+    - Pflaster
+    - Blasenpflaster
+    - Fenistil
+    - Sonnencreme
+    - After-Sun-Lotion
+    - Zinksalbe/Bebanthen
+    - Anti-Brumm
+    - Wunddesinfektion
+    - Handdesinfektion
+    - Leukoplast
+    - Sonnenhut 
