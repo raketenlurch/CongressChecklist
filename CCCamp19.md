@@ -1,18 +1,22 @@
-- Kram, der im Auto mit soll muss bis zum 13.08 im Fnord sein und im Pad eingetragen sein
-- Link zum Pad: 
-- Dauer: 15.08 - 28.08
-- Link zum Veranstaltungsicket:
-- Zugtickets: Sommerticket
-- Route Zehdenick - Mildenberg (Strecke Bahnhof - Camp mit dem Longboard)
+## Allgemein
+    - Kram, der im Auto mit soll muss bis zum 13.08 im Fnord sein und im Pad eingetragen sein
+    - Link zum Pad: 
+    - Dauer: 15.08 - 28.08
+    - Link zum Veranstaltungsicket:
+    - Zugtickets: Sommerticket
+    - Route Zehdenick - Mildenberg (Strecke Bahnhof - Camp mit dem Longboard)
+    - WICHTIG: Technik und verleihbaren Kram mit Nick und einer Email-Adresse labeln
 
 ## Klamotten
     - 1 T-Shirt pro Tag
     - Ein Paar Socken pro Tag
+    - Eine Unterhose pro Tag
+    - 3 BHs
     - Badeanzug
     - 3 Hoodies
     - 2 lange Hosen
-    - 
-
+    - 3 kurze Hosen
+    - Nachthemd
 
 ## Hygienefoo
     - Zahnbürste und Zahnpasta
@@ -28,6 +32,7 @@
     - Bürste
 
 ## Technikfoo
+    - 2 Laptops (Thinkpad und Acer)
     - Netzteil (+ Thinkpad und Acer-Nupsi)
     - 2 Raspberry Pi
     - 2 Powerbank
@@ -52,3 +57,6 @@
     - Wiederverwendbare Flasche für Wasser
     - Kleines Kissen
     - Großes Kissen
+    - 2 Plastikschüsseln
+    - Camping-Besteck
+    - 1 Rolle Gaffa 
