@@ -82,6 +82,8 @@
     - Musik-Playlisten zusammenbasteln
     - Stickzeug für Fahnenprojekt
     - Nähzeug zum Dinge Reparieren
+    - Bluethoot-Box
+    - Spotify-Premium
 
 ## Erste Hilfe-, Vorsorge-, und Nachsorgezeugs
     - Pflaster
